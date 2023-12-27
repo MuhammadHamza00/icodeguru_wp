@@ -31,7 +31,7 @@ if ($number == 1) {
 }
 
 /*
-Program 2 : Program in PHP to search the number
+Program 3 : Program in PHP to search the number
             Variable $number have a value
             We compare the value inside variable using switch statements
             break statement is used to break the switch statement
